@@ -1,0 +1,19 @@
+.info-section {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 48px;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid gray;
+}
+
+.all {
+  background: blue;
+}
+.incomplete {
+  background: red;
+}
+.complete {
+  background: green;
+}

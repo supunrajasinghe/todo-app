@@ -1,0 +1,8 @@
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: auto;
+  min-height: calc(80vh - 64px - 48px - 48px);
+  max-height: calc(80vh - 64px - 48px - 48px);
+}

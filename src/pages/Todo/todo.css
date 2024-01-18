@@ -1,0 +1,18 @@
+.todo-page {
+  width: 40%;
+  height: 80vh;
+  background: white;
+  border-radius: 5px;
+  padding: 24px;
+}
+
+.clear-completed-tasks {
+  position: fixed;
+  background: white;
+  width: 40%;
+  color: gray;
+  height: 48px;
+  font-size: 20px;
+  margin-top: 20px;
+  bottom: calc(10vh - 12px);
+}
